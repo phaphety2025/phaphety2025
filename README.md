@@ -6,7 +6,7 @@
 ---
 
 ##  About Me
-I am a graduate student in Applied Machine Intelligence with a strong interest in building practical AI and machine learning solutions. My work focuses on applying data-driven methods to real-world problems, including predictive modeling, deep learning, and AI-powered systems.
+I am a graduate student in Applied Machine Intelligence with a strong interest in building practical AI and machine learning solutions. My work focuses on applying data-driven methods to real-world problems, including predictive modeling, deep learning, and AI-powered systems. Experienced in classification models, feature engineering, and model evaluation.
 
 ---
 
@@ -14,9 +14,10 @@ I am a graduate student in Applied Machine Intelligence with a strong interest i
 
 ###  ChairFlow – AI Booking System (Live)
  [Open Live App](https://huggingface.co/spaces/phaphety2025/ChairFlow)  
-- AI-powered booking system with real-time scheduling  
+- Built AI-powered booking system for small businesses to automate scheduling and improve booking efficiency.  
 - Built scalable multi-client solution  
 - Focused on real-world business application  
+- Tools used: Python, FastAPI, Gradio, APIs
 
 ###  Breast Cancer Prediction
  [View Project](https://huggingface.co/spaces/phaphety2025/BreastCancerPred)  
@@ -52,5 +53,5 @@ I am a graduate student in Applied Machine Intelligence with a strong interest i
 
 ---
 
-##  Focus
+##  Specializing in Machine Learning and AI systems
 Building practical AI systems that create real-world impact.
